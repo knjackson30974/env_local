@@ -4,5 +4,5 @@ mod 'puppet',
 
 
 mod 'skype',
-  :git => 'https://github.com/boxen/puppet-skype.git'
+  :git => 'git@github.com:boxen/puppet-skype.git'
   
