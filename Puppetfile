@@ -17,8 +17,8 @@ mod 'xquartz',
 
 ## the following require boxen puppet module
 
-mod 'boxen',
-  :git => 'git@github.com:boxen/puppet-boxen.git'
+#mod 'boxen',
+#  :git => 'git@github.com:boxen/puppet-boxen.git'
 
 mod 'adium',
   :git => 'git@github.com:boxen/puppet-adium.git'
