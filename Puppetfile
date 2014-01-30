@@ -20,35 +20,35 @@ mod 'xquartz',
 #mod 'boxen',
 #  :git => 'git@github.com:boxen/puppet-boxen.git'
 
-mod 'adium',
-  :git => 'git@github.com:boxen/puppet-adium.git'
+#mod 'adium',
+#  :git => 'git@github.com:boxen/puppet-adium.git'
 
-mod 'alfred',
-  :git => 'git@github.com:boxen/puppet-alfred.git'
+#mod 'alfred',
+#  :git => 'git@github.com:boxen/puppet-alfred.git'
 
-mod 'chicken',
-  :git => 'git@github.com:boxen/puppet-chicken_of_the_vnc.git'
+#mod 'chicken',
+#  :git => 'git@github.com:boxen/puppet-chicken_of_the_vnc.git'
 
-mod 'chrome',
-  :git => 'git@github.com:boxen/puppet-chrome.git'
+#mod 'chrome',
+#  :git => 'git@github.com:boxen/puppet-chrome.git'
 
-mod 'dropbox',
-  :git => 'git@github.com:boxen/puppet-dropbox.git'
+#mod 'dropbox',
+#  :git => 'git@github.com:boxen/puppet-dropbox.git'
 
-mod 'firefox',
-  :git => 'git@github.com:boxen/puppet-firefox.git'
+#mod 'firefox',
+#  :git => 'git@github.com:boxen/puppet-firefox.git'
 
-mod 'libreoffice',
-  :git => 'git@github.com:boxen/puppet-libreoffice.git'
+#mod 'libreoffice',
+#  :git => 'git@github.com:boxen/puppet-libreoffice.git'
 
-mod 'macosx',
-  :git => 'git@github.com:boxen/puppet-osx.git'
+#mod 'macosx',
+#  :git => 'git@github.com:boxen/puppet-osx.git'
 
-mod 'textwrangler',
-  :git => 'git@github.com:boxen/puppet-textwrangler.git'
+#mod 'textwrangler',
+#  :git => 'git@github.com:boxen/puppet-textwrangler.git'
 
-mod 'tunnelblick',
-  :git => 'git@github.com:boxen/puppet-tunnelblick.git'
+#mod 'tunnelblick',
+#  :git => 'git@github.com:boxen/puppet-tunnelblick.git'
 
-mod 'vagrant',
-  :git => 'git@github.com:boxen/puppet-vagrant.git'
+#mod 'vagrant',
+#  :git => 'git@github.com:boxen/puppet-vagrant.git'
